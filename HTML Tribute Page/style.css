@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    margin: auto;
+}
+
+p, h1, h2, a {
+    font-family:'Courier New', Courier, monospace;
+    color: green;
+    text-align: center;
+}
+figure {
+  width: 100%;
+}
+img {
+  display: block;
+  margin: auto;
+  max-width: 80%;
+}
+
+section {
+    margin: auto;
+}
+
+#tribute-info {
+    width: 70%;
+    text-align: justify;
+}
